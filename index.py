@@ -1,5 +1,12 @@
 import  math
 
+a = 1
+
+def s():
+    print "|", a
+
+s()
+
 def project_to_distance(point_x, point_y, distance):
     dist_to_origin = (point_x ** 2 + point_y ** 2) ** (1.0 / 2)
     scale = distance / dist_to_origin

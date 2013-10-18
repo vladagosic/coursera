@@ -13,6 +13,7 @@ import random
 
 # helper functions
 
+
 def number_to_name(number):
     """ converts the known number to the name based of defined scheme """
     # fill in your code below
@@ -61,7 +62,7 @@ def rpsls(name):
     # compute difference of player_number and comp_number modulo five
     diff = (player_number - comp_number) % 5
     outcome = ""
-	# use if/elif/else to determine winner
+    # use if/elif/else to determine winner
     if (diff == 0):
         outcome = "Player and computer tie!"
     elif (diff < 3):
