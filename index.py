@@ -1,4 +1,3 @@
-
 import  math
 
 def project_to_distance(point_x, point_y, distance):
