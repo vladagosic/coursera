@@ -56,10 +56,11 @@ def spin(b):
     roll = spin_three()
     b = b - bet + bet * evaluate_win_multiplier(roll)
     print "Roll:", get_roll_text(roll)
-    print ""
-    print "win:", win
+    print "WIN:", win
     print "Balance: ", b
     balance = b
+    print ""
+    print ""
 
 
 def get_roll_text(roll):
@@ -139,4 +140,11 @@ def same_values(roll):
         return False
 
 
-spin(balance)
+#spin(balance)
+
+def spin_times(n):
+    for x in range(0, n):
+        spin(balance)
+
+
+spin_times(10)

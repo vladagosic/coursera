@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41f82de8-3f64-4386-af6e-f32dae35dcec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slot.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.py" afterPath="$PROJECT_DIR$/index.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rspls.py" afterPath="$PROJECT_DIR$/rspls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slot.py" afterPath="$PROJECT_DIR$/slot.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="coursera_git.iws" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="index.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="3" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
+            <state line="42" column="9" selection-start="904" selection-end="904" vertical-scroll-proportion="0.0" vertical-offset="461" max-vertical-offset="1190">
               <folding />
             </state>
           </provider>
@@ -40,7 +40,7 @@
       <file leaf-file-name="rspls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rspls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="37" selection-start="788" selection-end="1181" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="1615">
+            <state line="49" column="37" selection-start="788" selection-end="1181" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1615">
               <folding>
                 <marker date="1382103552022" expanded="true" signature="1289:2200" placeholder="..." />
               </folding>
@@ -48,11 +48,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slot.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="slot.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/slot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="0" selection-start="1216" selection-end="1216" vertical-scroll-proportion="1.8060708" vertical-offset="0" max-vertical-offset="2499">
+            <state line="42" column="33" selection-start="785" selection-end="807" vertical-scroll-proportion="0.0" vertical-offset="512" max-vertical-offset="2635">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guess.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/guess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="0.34244603" vertical-offset="0" max-vertical-offset="1683">
+              <folding>
+                <element signature="e#154#170#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,8 +87,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/rspls.py" />
-        <option value="$PROJECT_DIR$/index.py" />
         <option value="$PROJECT_DIR$/slot.py" />
+        <option value="$PROJECT_DIR$/index.py" />
+        <option value="$PROJECT_DIR$/guess.py" />
       </list>
     </option>
   </component>
@@ -138,11 +150,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -154,7 +166,7 @@
       <recent name="C:\Users\Vlada\PycharmProjects\coursera_git" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.slot">
+  <component name="RunManager" selected="Python.index">
     <configuration default="false" name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,8 +351,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.slot" />
-        <item index="1" class="java.lang.String" itemvalue="Python.index" />
+        <item index="0" class="java.lang.String" itemvalue="Python.index" />
+        <item index="1" class="java.lang.String" itemvalue="Python.slot" />
         <item index="2" class="java.lang.String" itemvalue="Python.rspls" />
       </list>
     </recent_temporary>
@@ -389,28 +401,32 @@
       <created>1382095199936</created>
       <updated>1382095199936</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added slot">
+      <created>1382108645962</created>
+      <updated>1382108645962</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6706392" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12083333" sideWeight="0.78114843" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21885157" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -426,7 +442,8 @@
     <MESSAGE value="test 2" />
     <MESSAGE value="Mini-project 1" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="added slot" />
+    <option name="LAST_COMMIT_MESSAGE" value="added slot" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -434,6 +451,29 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="3" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rspls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="37" selection-start="788" selection-end="1181" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1615">
+          <folding>
+            <marker date="1382103552022" expanded="true" signature="1289:2200" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="0" selection-start="1216" selection-end="1216" vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="2499">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rspls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="37" selection-start="788" selection-end="1181" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="1615">
@@ -443,24 +483,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="3" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python27/Lib/random.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="183" column="0" selection-start="6693" selection-end="6693" vertical-scroll-proportion="0.0" vertical-offset="2663" max-vertical-offset="15351">
-          <folding />
-        </state>
+        <state line="183" column="0" selection-start="6693" selection-end="6693" vertical-scroll-proportion="0.0" vertical-offset="2663" max-vertical-offset="15351" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/slot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="0" selection-start="1216" selection-end="1216" vertical-scroll-proportion="1.8060708" vertical-offset="0" max-vertical-offset="2499">
+        <state line="42" column="33" selection-start="785" selection-end="807" vertical-scroll-proportion="0.0" vertical-offset="512" max-vertical-offset="2635">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="9" selection-start="904" selection-end="904" vertical-scroll-proportion="0.0" vertical-offset="461" max-vertical-offset="1190">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="0.34244603" vertical-offset="0" max-vertical-offset="1683">
+          <folding>
+            <element signature="e#154#170#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
