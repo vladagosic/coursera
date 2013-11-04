@@ -1,7 +1,7 @@
 # template for "Guess the number" mini-project
 # input will come from buttons and an input field
 # all output for the game will be printed in the console
-import simplegui
+import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
 import random
 import math
 
