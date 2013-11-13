@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41f82de8-3f64-4386-af6e-f32dae35dcec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stopwatch.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guess.py" afterPath="$PROJECT_DIR$/guess.py" />
+    <list default="true" id="41f82de8-3f64-4386-af6e-f32dae35dcec" name="Default" comment="added Guess the number game">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/memory.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pong.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="coursera_git.iws" />
@@ -63,11 +63,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stopwatch.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="stopwatch.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stopwatch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="322" selection-end="322" vertical-scroll-proportion="0.2781186" vertical-offset="34" max-vertical-offset="1632">
+            <state line="73" column="0" selection-start="1852" selection-end="1889" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1632">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pong.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pong.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="12" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2686">
+              <folding>
+                <element signature="e#47#104#0" expanded="true" />
+                <marker date="1383840507227" expanded="true" signature="1051:1421" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="memory.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/memory.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="113" selection-end="113" vertical-scroll-proportion="-0.51111114" vertical-offset="315" max-vertical-offset="765">
+              <folding>
+                <element signature="e#40#97#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,16 +116,18 @@
         <option value="$PROJECT_DIR$/rspls.py" />
         <option value="$PROJECT_DIR$/slot.py" />
         <option value="$PROJECT_DIR$/index.py" />
-        <option value="$PROJECT_DIR$/stopwatch.py" />
         <option value="$PROJECT_DIR$/guess.py" />
+        <option value="$PROJECT_DIR$/stopwatch.py" />
+        <option value="$PROJECT_DIR$/pong.py" />
+        <option value="$PROJECT_DIR$/memory.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-4" />
     <option name="y" value="-4" />
-    <option name="width" value="1378" />
-    <option name="height" value="780" />
+    <option name="width" value="1374" />
+    <option name="height" value="732" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -155,11 +180,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -171,7 +196,7 @@
       <recent name="C:\Users\Vlada\PycharmProjects\coursera_git" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.stopwatch">
+  <component name="RunManager" selected="Python.memory">
     <configuration default="false" name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,44 +212,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="rspls" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="coursera_git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rspls.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="slot" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="coursera_git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/slot.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -259,6 +246,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="coursera_git" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guess.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="coursera_git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pong.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="memory" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="coursera_git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/memory.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -387,18 +410,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.index" />
-      <item index="1" class="java.lang.String" itemvalue="Python.rspls" />
-      <item index="2" class="java.lang.String" itemvalue="Python.slot" />
-      <item index="3" class="java.lang.String" itemvalue="Python.stopwatch" />
-      <item index="4" class="java.lang.String" itemvalue="Python.guess" />
+      <item index="1" class="java.lang.String" itemvalue="Python.stopwatch" />
+      <item index="2" class="java.lang.String" itemvalue="Python.guess" />
+      <item index="3" class="java.lang.String" itemvalue="Python.pong" />
+      <item index="4" class="java.lang.String" itemvalue="Python.memory" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.stopwatch" />
-        <item index="1" class="java.lang.String" itemvalue="Python.guess" />
-        <item index="2" class="java.lang.String" itemvalue="Python.index" />
-        <item index="3" class="java.lang.String" itemvalue="Python.slot" />
-        <item index="4" class="java.lang.String" itemvalue="Python.rspls" />
+        <item index="0" class="java.lang.String" itemvalue="Python.memory" />
+        <item index="1" class="java.lang.String" itemvalue="Python.stopwatch" />
+        <item index="2" class="java.lang.String" itemvalue="Python.pong" />
+        <item index="3" class="java.lang.String" itemvalue="Python.guess" />
+        <item index="4" class="java.lang.String" itemvalue="Python.index" />
       </list>
     </recent_temporary>
   </component>
@@ -454,22 +477,26 @@
       <created>1382453942377</created>
       <updated>1382453942377</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added Guess the number game">
+      <created>1383524105307</created>
+      <updated>1383524105307</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1378" height="780" extended-state="0" />
-    <editor active="false" />
+    <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12043796" sideWeight="0.7814871" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1954612" sideWeight="0.7790507" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2185129" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22094926" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -501,20 +528,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/slot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="33" selection-start="785" selection-end="807" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="2635">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="0" selection-start="2684" selection-end="2736" vertical-scroll-proportion="0.0" vertical-offset="1428" max-vertical-offset="1683">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stopwatch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="20" selection-start="1372" selection-end="1372" vertical-scroll-proportion="0.0" vertical-offset="208" max-vertical-offset="1632">
@@ -606,8 +619,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stopwatch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="322" selection-end="322" vertical-scroll-proportion="0.2781186" vertical-offset="34" max-vertical-offset="1632">
+        <state line="73" column="0" selection-start="1852" selection-end="1889" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1632">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="12" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2686">
+          <folding>
+            <element signature="e#47#104#0" expanded="true" />
+            <marker date="1383840507227" expanded="true" signature="1051:1421" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/memory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="113" selection-end="113" vertical-scroll-proportion="-0.51111114" vertical-offset="315" max-vertical-offset="765">
+          <folding>
+            <element signature="e#40#97#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
