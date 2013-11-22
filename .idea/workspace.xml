@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41f82de8-3f64-4386-af6e-f32dae35dcec" name="Default" comment="added Memory blocks game">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/memory.py" afterPath="$PROJECT_DIR$/memory.py" />
+    <list default="true" id="41f82de8-3f64-4386-af6e-f32dae35dcec" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blackjack.py" afterPath="$PROJECT_DIR$/blackjack.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="coursera_git.iws" />
@@ -82,12 +82,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="memory.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="memory.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/memory.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="67" selection-start="1393" selection-end="1393" vertical-scroll-proportion="0.4992658" vertical-offset="204" max-vertical-offset="1377">
+            <state line="2" column="47" selection-start="65" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blackjack.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blackjack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="283" column="38" selection-start="10227" selection-end="10227" vertical-scroll-proportion="0.11815562" vertical-offset="3318" max-vertical-offset="4777">
               <folding>
-                <element signature="e#58#115#0" expanded="true" />
+                <element signature="e#49#106#0" expanded="true" />
+                <element signature="e#2641#3513#0" expanded="false" />
+                <element signature="e#3549#4693#0" expanded="false" />
+                <element signature="e#4729#5369#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -96,7 +108,7 @@
       <file leaf-file-name="simpleguics2pygame.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://C:/Python27/Lib/site-packages/SimpleGUICS2Pygame/simpleguics2pygame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1619" column="0" selection-start="53590" selection-end="53590" vertical-scroll-proportion="0.0" vertical-offset="27330" max-vertical-offset="59177">
+            <state line="1619" column="0" selection-start="53590" selection-end="53590" vertical-scroll-proportion="0.0" vertical-offset="27523" max-vertical-offset="59194">
               <folding />
             </state>
           </provider>
@@ -127,6 +139,7 @@
         <option value="$PROJECT_DIR$/stopwatch.py" />
         <option value="$PROJECT_DIR$/pong.py" />
         <option value="$PROJECT_DIR$/memory.py" />
+        <option value="$PROJECT_DIR$/blackjack.py" />
       </list>
     </option>
   </component>
@@ -187,11 +200,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -203,25 +216,7 @@
       <recent name="C:\Users\Vlada\PycharmProjects\coursera_git" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.memory">
-    <configuration default="false" name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="coursera_git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.blackjack">
     <configuration default="false" name="stopwatch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,6 +284,26 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="coursera_git" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/memory.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="coursera_git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blackjack.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -418,19 +433,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.index" />
-      <item index="1" class="java.lang.String" itemvalue="Python.stopwatch" />
-      <item index="2" class="java.lang.String" itemvalue="Python.guess" />
-      <item index="3" class="java.lang.String" itemvalue="Python.pong" />
-      <item index="4" class="java.lang.String" itemvalue="Python.memory" />
+      <item index="0" class="java.lang.String" itemvalue="Python.stopwatch" />
+      <item index="1" class="java.lang.String" itemvalue="Python.guess" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pong" />
+      <item index="3" class="java.lang.String" itemvalue="Python.memory" />
+      <item index="4" class="java.lang.String" itemvalue="Python.blackjack" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.memory" />
-        <item index="1" class="java.lang.String" itemvalue="Python.stopwatch" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pong" />
-        <item index="3" class="java.lang.String" itemvalue="Python.guess" />
-        <item index="4" class="java.lang.String" itemvalue="Python.index" />
+        <item index="0" class="java.lang.String" itemvalue="Python.blackjack" />
+        <item index="1" class="java.lang.String" itemvalue="Python.memory" />
+        <item index="2" class="java.lang.String" itemvalue="Python.stopwatch" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pong" />
+        <item index="4" class="java.lang.String" itemvalue="Python.guess" />
       </list>
     </recent_temporary>
   </component>
@@ -494,13 +509,22 @@
       <created>1384369010622</created>
       <updated>1384369010622</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added Memory blocks game">
+      <created>1384507268097</created>
+      <updated>1384507268097</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added Memory blocks game">
+      <created>1385046674311</created>
+      <updated>1385046674311</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -515,7 +539,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -542,13 +565,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="9" selection-start="904" selection-end="904" vertical-scroll-proportion="0.0" vertical-offset="461" max-vertical-offset="1190">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rspls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="37" selection-start="788" selection-end="1181" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1615">
@@ -649,9 +665,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/memory.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="67" selection-start="1393" selection-end="1393" vertical-scroll-proportion="0.4992658" vertical-offset="204" max-vertical-offset="1377">
+        <state line="2" column="47" selection-start="65" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blackjack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="283" column="38" selection-start="10227" selection-end="10227" vertical-scroll-proportion="0.11815562" vertical-offset="3318" max-vertical-offset="4777">
           <folding>
-            <element signature="e#58#115#0" expanded="true" />
+            <element signature="e#49#106#0" expanded="true" />
+            <element signature="e#2641#3513#0" expanded="false" />
+            <element signature="e#3549#4693#0" expanded="false" />
+            <element signature="e#4729#5369#0" expanded="false" />
           </folding>
         </state>
       </provider>
