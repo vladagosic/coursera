@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41f82de8-3f64-4386-af6e-f32dae35dcec" name="Default" comment="">
+    <list default="true" id="41f82de8-3f64-4386-af6e-f32dae35dcec" name="Default" comment="added Blackjack table card game">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ricerocks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spaceship.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blackjack.py" afterPath="$PROJECT_DIR$/blackjack.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -44,19 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slot.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/slot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="33" selection-start="785" selection-end="807" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="2635">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="guess.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/guess.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="10" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1683">
+            <state line="24" column="10" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="1683">
               <folding />
             </state>
           </provider>
@@ -65,7 +58,7 @@
       <file leaf-file-name="stopwatch.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stopwatch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="0" selection-start="1852" selection-end="1889" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1632">
+            <state line="73" column="0" selection-start="1852" selection-end="1889" vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1632">
               <folding />
             </state>
           </provider>
@@ -74,10 +67,8 @@
       <file leaf-file-name="pong.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pong.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="12" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="2686">
-              <folding>
-                <marker date="1383840507227" expanded="true" signature="1051:1421" placeholder="..." />
-              </folding>
+            <state line="121" column="27" selection-start="3744" selection-end="3744" vertical-scroll-proportion="0.0" vertical-offset="2057" max-vertical-offset="2686">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,21 +76,36 @@
       <file leaf-file-name="memory.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/memory.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="47" selection-start="65" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
+            <state line="2" column="47" selection-start="65" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1377">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blackjack.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="blackjack.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blackjack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="283" column="38" selection-start="10227" selection-end="10227" vertical-scroll-proportion="0.11815562" vertical-offset="3318" max-vertical-offset="4777">
+            <state line="2" column="47" selection-start="56" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="6222">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spaceship.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spaceship.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="133" column="0" selection-start="5306" selection-end="5306" vertical-scroll-proportion="0.0" vertical-offset="2261" max-vertical-offset="4862">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ricerocks.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ricerocks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="226" selection-end="226" vertical-scroll-proportion="0.37777779" vertical-offset="0" max-vertical-offset="5916">
               <folding>
-                <element signature="e#49#106#0" expanded="true" />
-                <element signature="e#2641#3513#0" expanded="false" />
-                <element signature="e#3549#4693#0" expanded="false" />
-                <element signature="e#4729#5369#0" expanded="false" />
+                <element signature="e#42#99#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,7 +114,7 @@
       <file leaf-file-name="simpleguics2pygame.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://C:/Python27/Lib/site-packages/SimpleGUICS2Pygame/simpleguics2pygame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1619" column="0" selection-start="53590" selection-end="53590" vertical-scroll-proportion="0.0" vertical-offset="27523" max-vertical-offset="59194">
+            <state line="382" column="13" selection-start="13532" selection-end="13533" vertical-scroll-proportion="0.0" vertical-offset="6494" max-vertical-offset="59194">
               <folding />
             </state>
           </provider>
@@ -140,6 +146,8 @@
         <option value="$PROJECT_DIR$/pong.py" />
         <option value="$PROJECT_DIR$/memory.py" />
         <option value="$PROJECT_DIR$/blackjack.py" />
+        <option value="$PROJECT_DIR$/spaceship.py" />
+        <option value="$PROJECT_DIR$/ricerocks.py" />
       </list>
     </option>
   </component>
@@ -208,7 +216,7 @@
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
-      <PyConsoleSettings />
+      <console-settings />
     </option>
   </component>
   <component name="RecentsManager">
@@ -216,7 +224,7 @@
       <recent name="C:\Users\Vlada\PycharmProjects\coursera_git" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.blackjack">
+  <component name="RunManager" selected="Python.ricerocks">
     <configuration default="false" name="stopwatch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,42 +238,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="coursera_git" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stopwatch.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="guess" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="coursera_git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guess.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="pong" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="coursera_git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pong.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -304,6 +276,44 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="coursera_git" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blackjack.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="html2text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Code/Python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="coursera_git" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Code/Python/html2text.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ricerocks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="coursera_git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ricerocks.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -432,20 +442,41 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.stopwatch" />
-      <item index="1" class="java.lang.String" itemvalue="Python.guess" />
-      <item index="2" class="java.lang.String" itemvalue="Python.pong" />
-      <item index="3" class="java.lang.String" itemvalue="Python.memory" />
-      <item index="4" class="java.lang.String" itemvalue="Python.blackjack" />
+    <configuration default="false" name="spaceship" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="coursera_git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spaceship.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.spaceship" />
+      <item index="1" class="java.lang.String" itemvalue="Python.stopwatch" />
+      <item index="2" class="java.lang.String" itemvalue="Python.memory" />
+      <item index="3" class="java.lang.String" itemvalue="Python.blackjack" />
+      <item index="4" class="java.lang.String" itemvalue="Python.html2text" />
+      <item index="5" class="java.lang.String" itemvalue="Python.ricerocks" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.blackjack" />
-        <item index="1" class="java.lang.String" itemvalue="Python.memory" />
-        <item index="2" class="java.lang.String" itemvalue="Python.stopwatch" />
-        <item index="3" class="java.lang.String" itemvalue="Python.pong" />
-        <item index="4" class="java.lang.String" itemvalue="Python.guess" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ricerocks" />
+        <item index="1" class="java.lang.String" itemvalue="Python.blackjack" />
+        <item index="2" class="java.lang.String" itemvalue="Python.html2text" />
+        <item index="3" class="java.lang.String" itemvalue="Python.memory" />
+        <item index="4" class="java.lang.String" itemvalue="Python.stopwatch" />
       </list>
     </recent_temporary>
   </component>
@@ -517,28 +548,32 @@
       <created>1385046674311</created>
       <updated>1385046674311</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added Blackjack table card game">
+      <created>1385139892815</created>
+      <updated>1385139892815</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1953125" sideWeight="0.780065" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.08385417" sideWeight="0.6619718" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39869988" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.219935" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33802816" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -557,35 +592,18 @@
     <MESSAGE value="added slot" />
     <MESSAGE value="added Guess the number game" />
     <MESSAGE value="added Memory blocks game" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Memory blocks game" />
+    <MESSAGE value="added Blackjack table card game" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Blackjack table card game" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="23" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rspls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="37" selection-start="788" selection-end="1181" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="33" selection-start="785" selection-end="807" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="2635">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="65" selection-start="529" selection-end="529" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1683">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="3" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
@@ -602,21 +620,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/slot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="0" selection-start="1216" selection-end="1216" vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="2499">
-          <folding />
-        </state>
+        <state line="63" column="0" selection-start="1216" selection-end="1216" vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="2499" />
       </provider>
     </entry>
     <entry file="file://C:/Python27/Lib/random.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="183" column="0" selection-start="6693" selection-end="6693" vertical-scroll-proportion="0.0" vertical-offset="2663" max-vertical-offset="15351" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="33" selection-start="785" selection-end="807" vertical-scroll-proportion="0.0" vertical-offset="512" max-vertical-offset="2635">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.py">
@@ -647,22 +656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pong.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="12" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2686">
-          <folding>
-            <marker date="1383840507227" expanded="true" signature="1051:1421" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/SimpleGUICS2Pygame/simpleguics2pygame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1619" column="0" selection-start="53590" selection-end="53590" vertical-scroll-proportion="0.0" vertical-offset="27330" max-vertical-offset="59177">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/memory.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="47" selection-start="65" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
@@ -670,14 +663,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/slot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="33" selection-start="785" selection-end="807" vertical-scroll-proportion="0.0" vertical-offset="512" max-vertical-offset="2635" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blackjack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="283" column="38" selection-start="10227" selection-end="10227" vertical-scroll-proportion="0.11815562" vertical-offset="3318" max-vertical-offset="4777">
+        <state line="2" column="47" selection-start="56" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5236">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="121" column="27" selection-start="3744" selection-end="3744" vertical-scroll-proportion="0.0" vertical-offset="1769" max-vertical-offset="2669">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Code/Python/html2text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="134" column="4" selection-start="3798" selection-end="3798" vertical-scroll-proportion="0.2837607" vertical-offset="2112" max-vertical-offset="13141" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spaceship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="0" selection-start="5306" selection-end="5306" vertical-scroll-proportion="0.0" vertical-offset="3128" max-vertical-offset="4828">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/SimpleGUICS2Pygame/simpleguics2pygame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="382" column="13" selection-start="13532" selection-end="13533" vertical-scroll-proportion="0.0" vertical-offset="5534" max-vertical-offset="59177">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ricerocks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="226" selection-end="226" vertical-scroll-proportion="0.37777779" vertical-offset="0" max-vertical-offset="5916">
           <folding>
-            <element signature="e#49#106#0" expanded="true" />
-            <element signature="e#2641#3513#0" expanded="false" />
-            <element signature="e#3549#4693#0" expanded="false" />
-            <element signature="e#4729#5369#0" expanded="false" />
+            <element signature="e#42#99#0" expanded="true" />
           </folding>
         </state>
       </provider>

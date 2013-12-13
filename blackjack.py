@@ -97,6 +97,7 @@ class Card:
                     CARD_CENTER[1] + CARD_SIZE[1] * SUITS.index(self.suit))
         canvas.draw_image(card_images, card_loc, CARD_SIZE, [pos[0] + CARD_CENTER[0], pos[1] + CARD_CENTER[1]], CARD_SIZE)
 
+
 # define hand class
 class Hand:
     def __init__(self):
@@ -193,6 +194,7 @@ def deal():
     in_play = True
     if USE_PRINT:
         print_values()
+
 
 def hit():
     """ Adds a card to the player hand and checks if it is busted """
