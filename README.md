@@ -1,4 +1,4 @@
 coursera
 ========
-Repo for mini projects code for course: 
-An Introduction to Interactive Programming in Python, Rice University
+Repo for mini projects code for specialization: 
+Fundamentals of Computing, Rice University
